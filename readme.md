@@ -9,7 +9,8 @@ This project explores a dataset from GoFordBike for Boston and Washington for th
 
 ## Summary of Findings
 
-In general terms I found that the trip durations and number of trips lines up with what I was expecting to see in a monthly trend. The month of April seems to be an anomaly in number of trips, and interestingly also in the duration. With the number of trips being very low and the duration being high. 
+In general terms I found that the trip durations and number of trips lines up with what I was expecting to see in a monthly trend. The month of April seems to be an anomaly in number of trips, and interestingly also in the duration. With the number of trips being very low and the duration being high.   
+
 _Feedback provided by Mark Jensen_: It could be worth looking into this further to ensure there are no quality issues with the data for that particular month. It is especially interesting since this unexpected result is shown for both Washington and Boston. Would other cities show the same? 
 
 ## Key Insights for Presentation
